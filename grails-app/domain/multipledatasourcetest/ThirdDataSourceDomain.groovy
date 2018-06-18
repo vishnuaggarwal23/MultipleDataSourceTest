@@ -8,6 +8,6 @@ class ThirdDataSourceDomain {
 
     static mapping = {
         cache true
-//        datasources(['thirdSource'])
+        datasources(['thirdSource'])
     }
 }
